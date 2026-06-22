@@ -1,39 +1,42 @@
-## Exercise 1 — Headings
-### This Semester
-## Exercise 2 — Text formatting
-Learning to use **Git** has been *incredibly* rewarding, especially understanding how an `index.html` file connects to a live server.
-## Exercise 3 — Links
-* [My GitHub Profile](https://github.com/kariyooki)
-* [A Useful Website for Clinical Studies](https://www.wikipedia.org)
-## Exercise 4 — Lists
-### 3 Things I Want to Learn
-- Advanced frontend web design
-- Effective healthcare management strategies
-- Server-side data handling
-### Steps to Make a Commit in Git
-1. Stage your changes using `git add .`
-2. Write a descriptive commit message using `git commit -m "Your message"`
-3. Push your code to the remote repository using `git push`
-## Exercise 5 — Table
+## my learning goals
+### this semester
+never **hate** *on* a `nigga`
+[my github Profile]{https://github.com/kariyooki}
+[my instagram]{https://www.instagram.com/kariyooki}
+- how to prompt instructions
+- how to use basic ai tools
+- how to build systems
+  
+ 1. Check the status of your files  
+ git status
+ 2.Add your changes to the staging area
+git add .
+ 3.Commit the changes with a message
+git commit -m "Describe your changes here"
+ 4.Push the changes to GitHub
+
 
 | Tool | Purpose | Link |
-| :--- | :--- | :--- |
-| GitHub Pages | Free static website hosting | [GitHub Pages](https://pages.github.com) |
-| VS Code | Lightweight, powerful text editor | [VS Code](https://code.visualstudio.com) |
+|------|---------|------|
+| Git | Track code changes and collaborate | https://git-scm.com/ |
+| Docker | Package applications into containers | https://www.docker.com/ |
+- [x] creating a github account
+- [ ] knowing how to navigate a github account
+- [ ] lerning python
+- [ ] learning how to build a system using ai
+```python
+print("Hello, world!")
+```
+> if your dreams don't scare you they are not big enough
 
-## Exercise 6 — Task list
-- [x] Create a personal repository layout
-- [x] Deploy a live profile website on GitHub Pages
-- [ ] Complete the Markdown practice file assignment
-- [ ] Add custom CSS styles to my personal page
-## Exercise 7 — Code block
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Hello World</title>
-</head>
-<body>
-    <h1>Welcome to my site!</h1>
-</body>
-</html>
+# about me
+## background 
+so my name is stephen kariuki a 20 year old aspiring *software engineer* with a **strong passion** in artificial intelligence.Am also a content enthusiast you can check out my content at [my instagram]{https://www.instagram.com/kariyooki}
+## education
+so ive studied in the following institutions 
+- braeside academy
+- agha khan high school
+- mahanaim college
+## family
+currently am looking forward to starting my own family since i beleive 
+> no man is an island
